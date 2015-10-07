@@ -1,0 +1,22 @@
+{
+  "name": "PhD-tooling",
+  "version": "1.0.0",
+  "description": "CLI tools for a PhD",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sholto Maud",
+  "license": "BSD",
+  "preferGlobal": true,
+  "bin": {
+    "phd": "cli.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "debug": "^2.2.0",
+    "minimist": "^1.2.0",
+    "request": "^2.64.0",
+    "phd-abstractify": "^1.0.0",
+    "phd-requireify": "^1.0.0"
+  }
+}
