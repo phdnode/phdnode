@@ -4,7 +4,7 @@ Some Node.js CLI scripts and ideas on how to manage & generate documents relatin
 
 Follows bionode
 
-# Concepts
+# Concepts/TODO
 
 * Electron editor?
 * Zotero citations + editor
@@ -14,4 +14,13 @@ Follows bionode
 * Version control of all contents (like google docs)
 * drag-drop images
 * makrdown
-* 
+* Different citation styles
+* Hypothesis testing
+* Database - Couch/Pouch
+* Gitter-like chat
+* Gitter-like video chat
+* Convert to text with Google speach API
+* Kickstarter ++ cashflow
+* Stats on the document - how long it's been edited/open by whom
+* Typeahead for contepts etc
+* Google scholar search embedded
